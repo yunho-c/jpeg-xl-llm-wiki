@@ -1,0 +1,3 @@
+[submodule "external/llm-wiki.md"]
+	path = external/llm-wiki.md
+	url = https://gist.github.com/yunho-c/47a1f54df26c682f1a77f2ceb9d0bf26.git
